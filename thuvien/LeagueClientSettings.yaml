@@ -1,0 +1,33 @@
+install:
+    crash_reporting:
+        enabled: false
+    game-settings:
+        accountId: 107838619
+        modified: false
+        timestamp: 1609239686855
+    gameflow-patcher-lock: null
+    gameflow-process-info: null
+    gameflow-spectate-reconnect-info: null
+    globals:
+        locale: "vn_VN"
+        region: "VN"
+    lcu-settings:
+        accountId: 107838619
+        modified: false
+        timestamp: 1609227832232
+    npe-splash:
+        enableNewPlayerSplash: false
+    patcher:
+        client_migrated: false
+        client_patcher_available: false
+        game_migrated: false
+        game_patcher_available: false
+    perks-settings:
+        accountId: 107838619
+        modified: false
+        timestamp: 1609239529203
+    rso-auth:
+        install-identifier: "74803357a976134ca3c99a6206b20d26"
+    telemetry:
+        fresh_installation: true
+        installation_id: "HbRR+w=="
